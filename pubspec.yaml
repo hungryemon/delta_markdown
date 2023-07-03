@@ -15,7 +15,7 @@ dependencies:
   flutter_quill: #DESKTOP
     git:
       url: git@github.com:hungryemon/flutter-quill.git
-      ref: 7dcf6cadd63594bde8755e4b79df8f9493b520cc
+      ref: 4bd3bc325b3dea4cc0d2d9116436c86004bc2722
 
 dev_dependencies:
   build_runner: ^2.0.0
